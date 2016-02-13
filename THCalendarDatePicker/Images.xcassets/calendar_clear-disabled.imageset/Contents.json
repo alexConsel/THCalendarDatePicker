@@ -3,12 +3,12 @@
     {
       "idiom" : "universal",
       "scale" : "1x",
-      "filename" : "calendar_clear-disabled.png"
+      "filename" : "delete.png"
     },
     {
       "idiom" : "universal",
       "scale" : "2x",
-      "filename" : "calendar_clear-disabled@2x.png"
+      "filename" : "delete@2x.png"
     },
     {
       "idiom" : "universal",
